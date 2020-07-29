@@ -50,7 +50,7 @@ for candidate_name in candidate_votes:
     votes = candidate_votes[candidate_name]
     vote_percentage= float(votes)/float(total_votes) * 100
 
-    print(f"{candidate_name} received {votes} that is {vote_percentage:.1f}% of the vote\n")
+    print(f"{candidate_name} received {votes:{6},} that is {vote_percentage:.1f}% of the vote\n")
 
     if(votes > winning_count) and (vote_percentage > winning_percentage):
         winning_count = votes
