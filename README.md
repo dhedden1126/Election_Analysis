@@ -21,7 +21,14 @@ Number & Percentage of Votes per County
 
 ![Screen Shot 2020-07-30 at 7 25 19 PM](https://user-images.githubusercontent.com/67982071/88984444-9b91aa00-d29b-11ea-8ce3-39d9698b529f.png)
 
+County with Highest Vote Count
 
+
+Number & Percentage of Votes by Candidate
+
+
+
+Winning Candidate Statistics
 
 
 
