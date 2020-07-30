@@ -12,7 +12,16 @@ Compile data to provide election results to showcase the winner, percentage of v
 - election_results.csv
 
 ## Results
- ![Screen Shot 2020-07-29 at 8 21 37 PM](https://user-images.githubusercontent.com/67982071/88866700-76d4fe00-d1d9-11ea-9de6-99cbc6c9979c.png)
+
+How many votes were cast in this congressional election?
+
+Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+Which county had the largest number of votes?
+
+Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 ## Challenges
 Potential challenges with the analysis include the following:
