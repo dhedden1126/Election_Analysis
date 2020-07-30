@@ -13,13 +13,13 @@ Compile data to provide election results to showcase the winner, percentage of v
 
 ## Results
 
-Total Votes cast in the congressional election
+Total Votes in the Congressional Election
 
 ![Screen Shot 2020-07-30 at 7 24 54 PM](https://user-images.githubusercontent.com/67982071/88984241-17d7bd80-d29b-11ea-9481-2dae1a7a18e2.png)
 
 Number & Percentage of Votes per County
 
-
+![Screen Shot 2020-07-30 at 7 25 19 PM](https://user-images.githubusercontent.com/67982071/88984444-9b91aa00-d29b-11ea-8ce3-39d9698b529f.png)
 
 
 
