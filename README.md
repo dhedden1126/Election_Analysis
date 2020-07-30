@@ -21,6 +21,14 @@ Provide a breakdown of the number of votes and the percentage of total votes for
 ![Screen Shot 2020-07-30 at 7 25 19 PM](https://user-images.githubusercontent.com/67982071/88984046-9d0ea280-d29a-11ea-888e-d2e9fd555666.png)
 
 
+
+
+
+
+
+
+
+
 Which county had the largest number of votes?
 ![Screen Shot 2020-07-30 at 7 25 40 PM](https://user-images.githubusercontent.com/67982071/88984049-a0099300-d29a-11ea-998b-2d1f254d273a.png)
 
