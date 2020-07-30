@@ -16,11 +16,14 @@ Compile data to provide election results to showcase the winner, percentage of v
 How many votes were cast in this congressional election?
 ![Screen Shot 2020-07-30 at 7 24 54 PM](https://user-images.githubusercontent.com/67982071/88984043-9a13b200-d29a-11ea-945f-0d4f29ee15a4.png)
 
+
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 ![Screen Shot 2020-07-30 at 7 25 19 PM](https://user-images.githubusercontent.com/67982071/88984046-9d0ea280-d29a-11ea-888e-d2e9fd555666.png)
 
+
 Which county had the largest number of votes?
 ![Screen Shot 2020-07-30 at 7 25 40 PM](https://user-images.githubusercontent.com/67982071/88984049-a0099300-d29a-11ea-998b-2d1f254d273a.png)
+
 
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 ![Screen Shot 2020-07-30 at 7 25 57 PM](https://user-images.githubusercontent.com/67982071/88984056-a3048380-d29a-11ea-9983-002ecc071d97.png)
