@@ -33,7 +33,8 @@ Compile data to provide election results to showcase the winner, percentage of v
 
 ![Screen Shot 2020-07-30 at 7 26 15 PM](https://user-images.githubusercontent.com/67982071/88984586-f6c39c80-d29b-11ea-903b-434c2684702a.png)
 
-
+## Election Audit Summary
+In summary, this code can be leveraged for additional elections at any level of the government. The code can be edited to calculate other metrics relating to final outcomes. If there will be additional data collected at voting time, such as additional demographic data, ethnicity, race, sex, and gender, we can compile meaningful analysis. 
 
 ## Challenges
 Potential challenges with the analysis include the following:
